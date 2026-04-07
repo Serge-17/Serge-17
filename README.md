@@ -38,14 +38,3 @@ A collaborative project for a modern news aggregator app.
 
 ---
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serge-17&show_icons=true&theme=radical&hide_border=false" alt="Sergey's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serge-17&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
-</p>
